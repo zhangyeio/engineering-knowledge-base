@@ -24,8 +24,8 @@
 
 企业级系统架构、数据安全与 AI 应用实践者，关注大模型落地和数字化转型。
 
-- GitHub：[@zhangye413](https://github.com/zhangye413)
-- 技术博客：[Zhang Ye's Blog](https://zhangye413.github.io/)
+- GitHub：[@zhangyeio](https://github.com/zhangyeio)
+- 技术博客：[Zhang Ye's Blog](https://zhangyeio.github.io/)
 
 ## 使用说明
 
